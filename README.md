@@ -69,3 +69,11 @@ Het is bruin en gaat van de berg, wat is het? Een skiwi
 Wat is geel en hangt aan een auto? Een banaanhangwagen
 
 Wat is groen en hangt aan de muur? Kermit de sticker
+
+Made for someone who doesn't exist, I travel at 99.99999997% the speed of light. What am I?
+<details>
+  <summary>Answer</summary>
+  
+  A birthday cake ordered for someone 366 years in the future.
+  
+</details>
